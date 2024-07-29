@@ -52,7 +52,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import isMatrixTriangle from 'https://cdn.jsdelivr.net/gh/stdlib-js/blas-base-assert-is-matrix-triangle@deno/mod.js';
+import isMatrixTriangle from 'https://cdn.jsdelivr.net/gh/stdlib-js/blas-base-assert-is-matrix-triangle@v0.0.2-deno/mod.js';
 ```
 
 #### isMatrixTriangle( value )
@@ -88,7 +88,7 @@ bool = isMatrixTriangle( 'upper' );
 <!-- eslint no-undef: "error" -->
 
 ```javascript
-import isMatrixTriangle from 'https://cdn.jsdelivr.net/gh/stdlib-js/blas-base-assert-is-matrix-triangle@deno/mod.js';
+import isMatrixTriangle from 'https://cdn.jsdelivr.net/gh/stdlib-js/blas-base-assert-is-matrix-triangle@v0.0.2-deno/mod.js';
 
 var bool = isMatrixTriangle( 'lower' );
 // returns true
