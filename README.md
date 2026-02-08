@@ -52,7 +52,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import isMatrixTriangle from 'https://cdn.jsdelivr.net/gh/stdlib-js/blas-base-assert-is-matrix-triangle@esm/index.mjs';
+import isMatrixTriangle from 'https://cdn.jsdelivr.net/gh/stdlib-js/blas-base-assert-is-matrix-triangle@v0.0.3-esm/index.mjs';
 ```
 
 #### isMatrixTriangle( value )
@@ -93,7 +93,7 @@ bool = isMatrixTriangle( 'upper' );
 <body>
 <script type="module">
 
-import isMatrixTriangle from 'https://cdn.jsdelivr.net/gh/stdlib-js/blas-base-assert-is-matrix-triangle@esm/index.mjs';
+import isMatrixTriangle from 'https://cdn.jsdelivr.net/gh/stdlib-js/blas-base-assert-is-matrix-triangle@v0.0.3-esm/index.mjs';
 
 var bool = isMatrixTriangle( 'lower' );
 // returns true
